@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Talat Abbasi blogs",
+  "description": "A community-focused blog platform for local writers featuring a writer dashboard, editorial review portal, and public blog with search, categories, tags, and AI writing tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
